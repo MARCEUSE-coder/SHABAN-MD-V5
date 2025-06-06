@@ -9,7 +9,7 @@
     "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. Make sure it starts with SHABAN-MD~  or get session id from here,  https://vip-pair-f04a7c474123.herokuapp.com/pair",
-        "value":"",
+        "value":"SHABAN-MD~DZ1zgTZB#o5z3fpZd7t0Cz3V9KMZl-LxwLdgI_NbMhgY_yiZPn64",
         "required": true
         
       },
@@ -94,13 +94,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝐌𝐫 𝐒𝐡𝐚𝐛𝐚𝐧"
+      "value": "DJ MACHA255"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923043788282"
+      "value": "255788213342"
 
     }, 
 
