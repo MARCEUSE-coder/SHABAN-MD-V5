@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "SHABAN-MD~jZcHGSYB#qcKAu5Ee5p9PaNzDZUGbbWdunUSD9G-Yr_kAwvBzwQs",
+SESSION_ID: process.env.SESSION_ID || "SHABAN-MD~DZ1zgTZB#o5z3fpZd7t0Cz3V9KMZl-LxwLdgI_NbMhgY_yiZPn64",
 // add your Session Id
 AUTO_BIO: process.env.AUTO_BIO || "false", 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
@@ -34,9 +34,9 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "255652398614",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "255788213342",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "MR-SHABAN",
+OWNER_NAME: process.env.OWNER_NAME || "DJ MACHA255",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Sʜᴀʙᴀɴ*",
 // add bot owner name    
@@ -68,7 +68,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "255652398614",
+DEV: process.env.DEV || "255788213342",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "false",
 // true for anti once view
